@@ -1,5 +1,3 @@
-import math
-
 class Point:
     def __init__(self, name, coordinates=None):
         self.name = name
